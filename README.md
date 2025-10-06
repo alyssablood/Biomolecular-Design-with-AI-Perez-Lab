@@ -1,6 +1,39 @@
 # Perez-Lab-Intro-Tutorials
 This repo contains all the information needed to get started in Dr. Perez's lab, including sections on AutoDock, Chimera, VMD, BindCraft, AMBER, RFDiffusion, ProteinMPNN, AlphaFold2 and AlphaFold3.
 
+1. Introduction & Background
+AI and structures: from games to molecules
+oThe protein folding problem & the CASP competition
+2. Core Technical Foundations
+Python/Colab notebooks for running AI pipelines
+oIntroduction to HiPerGator for scalable computing
+3. Protein Structure Prediction
+AlphaFold, RoseTTAFold, MSEFold
+Case studies using the Protein Data Bank
+Transformer proteins and memorization issues
+4. Protein Design
+Hallucination and move 37
+RFdiffusion and ProteinMPNN
+BindCraft and other emerging methods
+Applications in miniproteins, peptides, and enzyme design
+5. Protein Interactions
+AlphaFold competitive binding assays (AF-CBA)
+Modeling interactomes and selectivity
+6. Protein Dynamics
+Beyond static folds: ensembles and motion
+BioEMU and AI for conformational states
+7. Applications & Frontiers
+Drug discovery, synthetic biology, enzyme design
+Limitations, reproducibility, FAIR practices (Findable, Accessible, Interoperable, 
+Reproducible)
+8. Community Challenges: unbiased assessment of methods
+CASP: protein structure prediction
+CAPRI: protein-protein structure prediction
+RNA Puzzles: RNA structure prediction
+BioML Challenge: Bits to binders : designing miniproteins to target cancer cells
+Align Bio: 2025 PETase Tournament
+iGEM projects on campus
+
 
 **Visualization**
 
