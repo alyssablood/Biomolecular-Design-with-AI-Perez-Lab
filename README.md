@@ -16,11 +16,11 @@ AutoDock: Predicts how ligand and protein interact, and what binding conformatio
 
 **Protein Design**
 
-BindCraft:
+BindCraft: Good for desiging a new binder custom fit to a target protein. It is generally very accurate, but follows strict garbage in garbage out policy. Input protein must be high accuracy, and runs take a relatively long time. link iGEM
 
-ProteinMPNN:
+ProteinMPNN: Optimizes amino acid sequences for most stable protein backbones. Good for designing new target proteins.
 
-RFDiffusion:
+RFDiffusion: Generates new protein backbones using diffusion models. Adds in noise to allow for flexibility in structure. Results MUST be checked carefully. It is very easy to add too much noise and generate garbage outputs.
 
 **Protein Folding**
 
