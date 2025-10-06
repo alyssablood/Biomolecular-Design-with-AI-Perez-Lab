@@ -6,7 +6,7 @@ This repo contains all the information needed to get started in Dr. Perez's lab,
 
 Chimera: Best for generating final graphics for presentations, models alpha helix versus beta pleats.
 
-VMD: Best for modeling 
+VMD: Best for modeling multiple docking poses and animating mechamisms. Many options for color/shape of models.
 
 **Docking Poses (not mechanism)**
 
