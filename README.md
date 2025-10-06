@@ -31,8 +31,7 @@ This repo contains all the information needed to get started in Dr. Perez's lab,
 ### 7. [Applications & Frontiers](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/7.%20Application%20%26%20Frontiers.md)
 
     - Drug discovery, synthetic biology, enzyme design
-    - Limitations, reproducibility, FAIR practices (Findable, Accessible, Interoperable, 
-Reproducible)
+    - Limitations, reproducibility, FAIR practices (Findable, Accessible, Interoperable, Reproducible)
 ### 8. [Community Challenges: unbiased assessment of methods](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/8.%20Community%20Challenges%3A%20unbiased%20assessment%20of%20methods.md)
 
     - CASP: protein structure prediction
