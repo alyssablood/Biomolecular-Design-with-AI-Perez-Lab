@@ -10,9 +10,9 @@ VMD: Best for modeling multiple docking poses and animating mechamisms. Many opt
 
 **Docking Poses (not mechanism)**
 
-AutoDock:
+AMBER: Uses physics-based (p-chem) methods to apply force fields (vector equations) to molecules in order to predict folding, docking, and general behavior. Good for very specific results, binding energy and other outputs are considered reliable.
 
-AMBER:
+AutoDock: Predicts how ligand and protein interact, and what binding conformation would occur. P-chem methods are NOT used, therefore specific numbers are considered unreliable. Good for preliminary testing to get shape and quantity of docked poses.
 
 **Protein Design**
 
