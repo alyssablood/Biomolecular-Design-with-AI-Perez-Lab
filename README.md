@@ -2,9 +2,12 @@
 This repo contains all the information needed to get started in Dr. Perez's lab, including sections on AutoDock, Chimera, VMD, BindCraft, AMBER, RFDiffusion, ProteinMPNN, AlphaFold2 and AlphaFold3.
 
 1. [Introduction & Background](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/Chapter%201)
+
 AI and structures: from games to molecules
-oThe protein folding problem & the CASP competition
-2. Core Technical Foundations
+
+The protein folding problem & the CASP competition
+
+2. [Core Technical Foundations](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/Chapter%202)
 Python/Colab notebooks for running AI pipelines
 oIntroduction to HiPerGator for scalable computing
 3. Protein Structure Prediction
