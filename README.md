@@ -5,7 +5,7 @@ This repo contains all the information needed to get started in Dr. Perez's lab,
 
     - AI and structures: from games to molecules
     - The protein folding problem & the CASP competition
-2. [Core Technical Foundations]([2. Core Technical Foundations](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/2.%20Core%20Technical%20Foundations))
+2. [Core Technical Foundations] (https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/2.%20Core%20Technical%20Foundations)
 
     - Python/Colab notebooks for running AI pipelines
     - Introduction to HiPerGator for scalable computing
