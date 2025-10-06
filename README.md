@@ -3,16 +3,19 @@ This repo contains all the information needed to get started in Dr. Perez's lab,
 
 
 **Visualization**
+
 Chimera:
 
 VMD:
 
 **Docking Poses (not mechanism)**
+
 AutoDock:
 
 AMBER:
 
 **Protein Design**
+
 BindCraft:
 
 ProteinMPNN:
@@ -20,6 +23,7 @@ ProteinMPNN:
 RFDiffusion:
 
 **Protein Folding**
+
 AlphaFold2:
 
 AlphaFold3:
