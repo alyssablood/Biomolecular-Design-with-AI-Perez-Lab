@@ -24,10 +24,9 @@ RFDiffusion: Generates new protein backbones using diffusion models. Adds in noi
 
 **Protein Folding**
 
-AlphaFold2:
+AlphaFold2: Extremely popular tool for deriving a 3D structure from an amino acid sequence. Very high accuracy, industry standard. link baker paper
 
-AlphaFold3:
-
+AlphaFold3: Expansion of AlphaFold2 that also analyzes interacions between molecules. Program won 2024 Nobel Prize in Chemistry. link baker paper
 
 To do:
 - flow chart showing how to decide which software to use
