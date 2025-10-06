@@ -9,31 +9,31 @@ This repo contains all the information needed to get started in Dr. Perez's lab,
 
     - Python/Colab notebooks for running AI pipelines
     - Introduction to HiPerGator for scalable computing
-3. Protein Structure Prediction
+3. [Protein Structure Prediction](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/3.%20Protein%20Structure%20Prediction)
 
     - AlphaFold, RoseTTAFold, MSEFold
     - Case studies using the Protein Data Bank
     - Transformer proteins and memorization issues
-4. Protein Design
+4. [Protein Design](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/4.%20Protein%20Design)
 
     - Hallucination and move 37
     - RFdiffusion and ProteinMPNN
     - BindCraft and other emerging methods
     - Applications in miniproteins, peptides, and enzyme design
-5. Protein Interactions
+5. [Protein Interactions](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/5.%20Protein%20Interactions)
 
     - AlphaFold competitive binding assays (AF-CBA)
     - Modeling interactomes and selectivity
-6. Protein Dynamics
+6. [Protein Dynamics](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/6.%20Protein%20Dynamics)
 
     - Beyond static folds: ensembles and motion
     - BioEMU and AI for conformational states
-7. Applications & Frontiers
+7. [Applications & Frontiers](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/7.%20Application%20%26%20Frontiers)
 
     - Drug discovery, synthetic biology, enzyme design
     - Limitations, reproducibility, FAIR practices (Findable, Accessible, Interoperable, 
 Reproducible)
-8. Community Challenges: unbiased assessment of methods
+8. [Community Challenges: unbiased assessment of methods](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/8.%20Community%20Challenges%3A%20unbiased%20assessment%20of%20methods)
 
     - CASP: protein structure prediction
     - CAPRI: protein-protein structure prediction
