@@ -20,7 +20,7 @@ BindCraft: Good for desiging a new binder custom fit to a target protein. It is 
 
 ProteinMPNN: Optimizes amino acid sequences for most stable protein backbones. Good for designing new target proteins.
 
-RFDiffusion: Generates new protein backbones using diffusion models. Adds in noise to allow for flexibility in structure. Results MUST be checked carefully. It is very easy to add too much noise and generate garbage outputs.
+RFDiffusion: Generates new protein backbones using diffusion models. Adds in noise to allow for flexibility in folding. Results MUST be checked carefully. It is very easy to add too much noise and generate garbage outputs.
 
 **Protein Folding**
 
