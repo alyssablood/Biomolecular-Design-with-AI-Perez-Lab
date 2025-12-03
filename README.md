@@ -1,4 +1,4 @@
-# Perez Lab Intro Tutorials
+# Biomolecular Design with AI (Perez Lab, UF)
 This repo contains all the information needed to get started in Dr. Perez's lab, including sections on AutoDock, Chimera, VMD, BindCraft, AMBER, RFDiffusion, ProteinMPNN, AlphaFold2 and AlphaFold3.
 
 ### 1. [Introduction & Background](https://github.com/alyssablood/Perez-Lab-Intro-Tutorials/blob/main/1.%20Introduction%20&%20Background.md)
